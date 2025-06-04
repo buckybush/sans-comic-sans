@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Sans Comic Sans (for Afdahl)",
-  "version": "1.6",
+  "version": "1.7",
   "description": "Replaces Comic Sans fonts with a font of your choice.",
   "permissions": ["storage"],
   "action": {
